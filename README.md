@@ -31,6 +31,7 @@
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3270344/notion-icon-sm.png" alt="Notion" width="45px" style="max-width:100%; height:auto;" title="Notion">
 </div>
 
-I’m always excited to learn, explore new technologies, and deliver innovative solutions that can make a difference. Let’s connect and build something amazing together! 🌟
+
+### I’m always excited to learn, explore new technologies, and deliver innovative solutions that can make a difference. Let’s connect and build something amazing together! 🌟
 
 

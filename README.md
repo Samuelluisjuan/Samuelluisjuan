@@ -10,45 +10,7 @@
    - **Data-Driven Problem Solving:** I solve real-world problems using data-driven strategies.
 
 ## Technologies Used  
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mis Tecnologías</title>
-    <style>
-        .tech-icons {
-            display: flex;
-            flex-wrap: wrap;
-            align-items: center;
-            gap: 10px;
-            justify-content: center;
-        }
-        .tech-icons img {
-            width: 50px;
-            height: auto;
-        }
-        .badge {
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px;
-            text-decoration: none;
-            border-radius: 20px;
-            font-weight: bold;
-            color: white;
-            background-color: #101010;
-            font-size: 14px;
-            transition: background-color 0.3s ease;
-        }
-        .badge:hover {
-            background-color: #FF5A5F;
-        }
-    </style>
-</head>
-<body>
-
-   <h2>Mis Tecnologías</h2>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
         <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" width="50px" style="max-width:100%; height:auto;" title="Python">
         <img src="https://img.icons8.com/color/452/numpy.png" alt="Numpy" width="50px" style="max-width:100%; height:auto;" title="Numpy">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" alt="Pandas" width="50px" style="max-width:100%; height:auto;" title="Pandas">
@@ -67,13 +29,14 @@
         <img src="https://pngimg.com/uploads/github/github_PNG80.png" alt="GitHub" width="50px" style="max-width:100%; height:auto;" title="GitHub">
         <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="45px" style="max-width:100%; height:auto;" title="Visual Studio Code">
         <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3270344/notion-icon-sm.png" alt="Notion" width="45px" style="max-width:100%; height:auto;" title="Notion">
-      </div>
+   </div>
 
 
    <h2>Mis Redes Sociales</h2>
     <div>
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/samuel-guerrero-0ab3a8281/)
-   
+      <a href="https://www.linkedin.com/in/samuel-guerrero-0ab3a8281/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Samuel_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
+      </a>
    </div>
 
 </body>

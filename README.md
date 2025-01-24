@@ -1,7 +1,13 @@
 
-# Hi, I'm Samuel!  
+# Welcome to my GitHub profile! 🚀
 
-### I'm a data analyst certified by TripleTen, excited and eager to put into practice the various techniques I’ve learned in data analysis. I have experience with multiple technologies that help transform raw data into actionable insights.  
+### Hi there! I'm Samuel, a certified Data Analyst from TripleTen, passionate about transforming raw data into actionable insights. With experience in data analysis, machine learning, and user experience research, I specialize in turning complex data into clear, impactful stories that drive decision-making.
+
+##  What I do:
+   - Predictive Models & Machine Learning: I develop and implement machine learning solutions to forecast trends and behaviors.
+   - User Experience Research: I analyze user behavior and patterns to enhance the overall experience.
+   - Data Visualization: I create compelling dashboards and visualizations that make data more accessible and understandable.
+   - Data-Driven Problem Solving: I solve real-world problems using data-driven strategies.
 
 ## Technologies Used  
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
@@ -24,4 +30,7 @@
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="45px" style="max-width:100%; height:auto;" title="Visual Studio Code">
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3270344/notion-icon-sm.png" alt="Notion" width="45px" style="max-width:100%; height:auto;" title="Notion">
 </div>
+
+I’m always excited to learn, explore new technologies, and deliver innovative solutions that can make a difference. Let’s connect and build something amazing together! 🌟
+
 

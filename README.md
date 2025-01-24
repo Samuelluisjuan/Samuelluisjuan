@@ -47,7 +47,7 @@
 </head>
 <body>
 
-    <h2>Mis Tecnologías</h2>
+   <h2>Mis Tecnologías</h2>
     <div class="tech-icons">
         <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" title="Python">
         <img src="https://img.icons8.com/color/452/numpy.png" alt="Numpy" title="Numpy">

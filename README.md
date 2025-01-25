@@ -32,7 +32,7 @@
    </div>
 
 
-   <h2>Mis Redes Sociales</h2>
+   <h2>My Social Networks</h2>
     <div>
       <a href="https://www.linkedin.com/in/samuel-guerrero-0ab3a8281/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Samuel_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
